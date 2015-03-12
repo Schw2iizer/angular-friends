@@ -20,6 +20,10 @@ input, select, form, ul {
 	margin-top: 10px;
 }
 
+.people{
+	float: right;
+}
+
 .searchForm{
 	width: 500px;
 	margin:auto;
